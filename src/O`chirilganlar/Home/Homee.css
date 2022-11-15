@@ -1,0 +1,39 @@
+/* .homee h2{
+    text-align: center;
+}
+.homee h3{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+.btn{
+    display: flex;
+    grid-gap: 10px;
+    align-items: center;
+}
+.homee .plus{
+    padding: 5px;
+    background-color:rgb(210, 201, 30);
+    border: none;
+    cursor: pointer;
+    transition: 0.3s linear;
+}
+.homee .Ad_To_Basket{
+    display: block;
+    margin: auto;
+    width: 110px;
+    height: 30px;
+    background-color:rgb(210, 201, 30);
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.3s linear;
+}
+.homee .Ad_To_Basket:hover{
+    background-color: blue;
+}
+.homee .plus:hover{
+    background-color: blue;
+} */

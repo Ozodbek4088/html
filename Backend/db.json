@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "question": "Uzb Poytaxti",
+      "variants": [
+        "Xiva",
+        "London",
+        "Toshkent",
+        "Samarqand"
+      ],
+      "rightAnswer": "Toshkent",
+      "id": 1
+    },
+    {
+      "question": "Rassiya poytaxti",
+      "variants": [
+        "Toshkent",
+        "New York",
+        "Moskva",
+        "London"
+      ],
+      "rightAnswer": "Moskva",
+      "id": 2
+    }
+  ],
+  "users": []
+}

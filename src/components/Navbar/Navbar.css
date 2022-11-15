@@ -1,0 +1,27 @@
+nav {
+  background-color: aqua;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 60px;
+}
+.link1 {
+  text-decoration: none;
+}
+.link2 {
+  text-decoration: none;
+  margin: 0 40px;
+}
+.link3 {
+  text-decoration: none;
+}
+.link4 {
+  text-decoration: none;
+}
+.link5 {
+  text-decoration: none;
+}
+.link6 {
+  text-decoration: none;
+}

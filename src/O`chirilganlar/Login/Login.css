@@ -1,0 +1,28 @@
+/* main{
+    background-color: rgb(253, 83, 83);
+    width: 100%;
+    height: 100vh;
+}
+main h1{
+    text-align: center;
+}
+main input{
+    width: 300px;
+    height: 40px;
+    display: block;
+    margin: auto;
+}
+main button{
+    width: 170px;
+    height: 40px;
+    display: block;
+    margin: auto;
+    background-color: blue;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.link{
+    display: block;
+    margin: auto;
+} */

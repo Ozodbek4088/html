@@ -1,0 +1,97 @@
+form {
+  background-color: blue;
+  width: 500px;
+  height: 350px;
+  margin: 10px auto;
+}
+form input {
+  display: block;
+  margin: 5px auto;
+  width: 200px;
+  height: 30px;
+}
+form .input1 {
+  display: block;
+  margin: 5px auto;
+  width: 340px;
+  height: 30px;
+}
+form button {
+  width: 100px;
+  height: 30px;
+  border: none;
+  background-color: gold;
+  display: block;
+  margin: auto;
+  cursor: pointer;
+  transition: 0.3s linear;
+}
+form button:hover {
+  background-color: rgb(72, 255, 0);
+}
+.variants {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  margin: 10px auto;
+}
+.Tests {
+  background-color: gold;
+  width: 500px;
+  height: 450px;
+  margin: auto;
+  overflow-y: scroll;
+}
+.TestAdmin h1 {
+  text-align: center;
+}
+.Ts h2 {
+  text-align: center;
+}
+.Ts h1 {
+  text-align: center;
+}
+label {
+  background-color:green;
+  width: 170px;
+  height: 30px;
+  margin: 5px 31px;
+  padding: 6px;
+  color: white;
+}
+label input {
+  margin: 0 5px;
+  cursor: pointer;
+}
+.btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.tanlash {
+  background-color: blue;
+  width: 80px;
+  height: 30px;
+  border: none;
+  color: white;
+  cursor:pointer;
+}
+.delete {
+  background-color: green;
+  width: 80px;
+  height: 30px;
+  border: none;
+  color: white;
+  cursor:pointer;
+}
+.edit {
+  background-color: red;
+  width: 80px;
+  height: 30px;
+  border: none;
+  color: white;
+  cursor:pointer;
+}
+.Testlar{
+  background-color: gray;
+  margin: 10px;
+}
